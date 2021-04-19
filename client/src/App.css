@@ -1,0 +1,60 @@
+body {
+    background-color: #424146;
+}
+
+.jumbotron {
+    background-color: #2a292e;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: calc(30% + 1vw + 1vh);
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.logo {
+    height: max(15vw,150px);
+    width: max(15vw,150px)
+}
+
+.container-header {
+    height: calc(30% + 1vw + 1vh);
+}
+
+.title {
+    font-size: max(5vw,1.5rem);
+    text-align: left;
+    font-family: 'Patrick Hand';
+    padding-left: 5vw;
+}
+
+.description {
+    font-size: max(2vw, 0.8rem);
+    text-align: left;
+    font-family: 'Patrick Hand';
+    color: gray;
+    padding-left: 5vw;
+}
+
+.characters {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

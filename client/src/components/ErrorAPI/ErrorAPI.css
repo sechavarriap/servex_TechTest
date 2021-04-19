@@ -1,0 +1,19 @@
+.error-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.error-text {
+    font-size: max(3vw, 2rem);
+    text-align: center;
+    font-family: 'Patrick Hand';
+    color: white; 
+    width: min(100%,800px);  
+}
+
+.error-img {
+    width: min(100%,600px);
+    height: min(100%,600px);
+}

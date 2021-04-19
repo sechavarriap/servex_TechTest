@@ -1,0 +1,15 @@
+.control-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.btn-dark {
+    width: 150px;
+}
+
+.btn-dark:hover {
+    background-color: rgb(115, 156, 33);
+}
+
